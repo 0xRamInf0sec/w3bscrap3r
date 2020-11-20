@@ -6,3 +6,5 @@ This tool is mainly used to extract the hidden directories found in a website an
  cd w3bscrap34<br/>
  pip3 install requirements.txt<br/>
  python3 webscraper.py<br/>
+
+# Drop a star for this tool 
