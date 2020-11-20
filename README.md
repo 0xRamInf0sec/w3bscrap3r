@@ -8,7 +8,7 @@ This tool is mainly used to extract the hidden directories found in a website an
  python3 webscraper.py<br/>
  # Screenshot
  <p align="center">
-  <img src="/home/ram/Desktop/sc.png" >
+  <img src="https://github.com/Ramalingasamy012/w3bscrap3r/blob/main/sc.png" >
 </p>
 
 # Drop a star for this tool 
